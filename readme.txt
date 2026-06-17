@@ -1,0 +1,1 @@
+Testando com modelo llama3.1:latest e deu time out e realmente as requisições demoraram muito. testando novo modelo.

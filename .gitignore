@@ -1,0 +1,19 @@
+# Ambiente virtual — nunca vai para o Git
+.venv/
+
+# Variáveis de ambiente — nunca expor chaves
+.env
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos gerados pelo pipeline (regeneráveis)
+data/*.parquet
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
